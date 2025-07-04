@@ -1,6 +1,9 @@
 # Collaborative Shopping List App
 A simple app to create and manage shopping lists with real-time updates using React (frontend), Express + MongoDB (backend), and Socket.io for live syncing.
 
+# Creators
+# Katlegokatzu@gmail.com
+
 # Features
 -Create, view, and manage shopping lists
 -Add, edit, and delete items with quantity, price, and who shares the cost
